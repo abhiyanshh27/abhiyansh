@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://abhiyansh.pages.dev">
+  <a href="https://abhiyansh.vercel.app/">
   <img src="./src/assets/light-logo.svg" alt="abhiyanshVaishnav" width="200"></a>
   <br>
   Abhiyansh Vaishnav's Personal Website
